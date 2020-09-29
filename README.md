@@ -15,4 +15,3 @@ The program will download a picture from the Internet and apply a threshold to t
 6. `conan build . --build-folder build`
 7. `.\build\bin\imgui-opencv`
 8. Click 'Open' to open the image
-9. Apply a threshold with the slider
