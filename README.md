@@ -1,7 +1,6 @@
-## imgui - opencv
+## Pixel Operations and Intensity Transformations
 
-Just a simple demo to add opencv, imgui and poco libraries to a project using Conan.io
-The program will download a picture from the Internet and apply a threshold to the image with the desired level through an slider.
+Images get degraded through various processes. How do you enhance the visual quality of degraded images using various point intensity transformations?
 
 ![use](https://media.giphy.com/media/tTMY098fvTOG76A9Y3/giphy.gif)
 
