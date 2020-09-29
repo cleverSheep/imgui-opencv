@@ -1,6 +1,6 @@
 # Pixel Operations and Intensity Transformations
 
-![use](https://raw.githubusercontent.com/czoido/imgui-opencv/master/data/screen-capture.gif)
+![use](https://media.giphy.com/media/tTMY098fvTOG76A9Y3/giphy.gif)
 
 ## How to use:
 
