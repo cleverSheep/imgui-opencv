@@ -1,5 +1,7 @@
 # Pixel Operations and Intensity Transformations
 
+![use](https://raw.githubusercontent.com/czoido/imgui-opencv/master/data/screen-capture.gif)
+
 ## How to use:
 
 1. Install conan: https://docs.conan.io/en/latest/installation.html
