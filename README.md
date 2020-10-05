@@ -4,7 +4,7 @@ Images get degraded through various processes. How do you enhance the visual qua
 
 ![use](https://media.giphy.com/media/H5QuTLeUZUwMne6iGz/giphy.gif)
 
-The program suppoers the following pixel intensity operations.
+The program supports the following pixel intensity operations.
 - Image negative
 - Bit-plane images
 - Log transformation
