@@ -4,6 +4,16 @@ Images get degraded through various processes. How do you enhance the visual qua
 
 ![use](https://media.giphy.com/media/H5QuTLeUZUwMne6iGz/giphy.gif)
 
+The program suppoers the following pixel intensity operations.
+- Image negative
+- Bit-plane images
+- Log transformation
+- Power-law/gamma transformation
+- Image arithmetic operations
+- Image set operations
+- Binarization/thresholding
+- Logical operations on binary images
+
 ## How to use:
 1. Install conan: https://docs.conan.io/en/latest/installation.html
 2. Clone this repo with zip.
